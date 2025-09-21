@@ -1,13 +1,13 @@
 {
-  "name": "boyfiee",
-  "version": "1.0.0",
-  "description": "",
-  "main": "src/shard.js",
+  "name": "Nobita",
+  "version": "1.0",
+  "description": "a music bot",
+  "main": "src/flixo.js",
   "scripts": {
-    "start": "node src/shard.js"
+    "start": "node ."
   },
   "keywords": [],
-  "author": "boyfiee",
+  "author": "nobita",
   "license": "ISC",
   "dependencies": {
     "@flytri/lyrics-finder": "^1.0.7",
