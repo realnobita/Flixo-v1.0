@@ -10,7 +10,7 @@ It is built using **Node.js** and **Discord.js v14**, offering an extensive set 
 - [Installation & Setup](src/flixo.js)
 - [Requirements](a JavaScript hosting or Vps)
 - [Contributing](#contributing)
-- [Developer](Ŋ Ɔ Ɓ I T A)
+- Developer = Ŋ Ɔ Ɓ I T A
 - [Support Server](https://duscord.gg/coderZ)
 
 ---
