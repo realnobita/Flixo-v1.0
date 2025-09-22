@@ -88,8 +88,7 @@ class MainClient extends Client {
     mongoose.set("strictQuery", true);
 
     const mongoURI =
-      this.config.Mongo ||
-      "mongodb+srv://mongofloovi:Floovi@floovi.tu8lpdq.mongodb.net/your-database-name?retryWrites=true&w=majority&appName=Floovi";
+      this.config.Mongo;
 
     const connectWithRetry = () => {
       mongoose
